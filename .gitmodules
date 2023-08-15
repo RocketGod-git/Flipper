@@ -64,3 +64,6 @@
 [submodule "BadUSB/Kavitate-BadUSB"]
 	path = BadUSB/Kavitate-BadUSB
 	url = https://github.com/Kavitate/FlipperZeroBadUSB
+[submodule "BadUSB/InfoSecREDD"]
+	path = BadUSB/InfoSecREDD
+	url = https://github.com/InfoSecREDD/REPG.git
